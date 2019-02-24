@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EazyDiner</string>
+    <string name="downloading_file">Downloading file.Please wait</string>
+    <string name="download_success"> Download successful</string>
+    <string name="error"> Some Error occured</string>
+    <string name="checkInternet">Please conect to Internet</string>
+
+
+
+</resources>
